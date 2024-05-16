@@ -1,0 +1,1 @@
+ /home/hashish/Desktop/test-main/test-main/SubTask/sub_tasks_for_software/.dart_tool/flutter_build/b2f0cca59c3f2d2d444cb67b46f346cf/native_assets.yaml: 

@@ -1,0 +1,4 @@
+#Thu May 16 10:44:35 EEST 2024
+base.0=/home/hashish/Desktop/test-main/test-main/SubTask/sub_tasks_for_software/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

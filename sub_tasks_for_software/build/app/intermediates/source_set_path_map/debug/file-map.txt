@@ -1,0 +1,15 @@
+com.example.sub_tasks_for_software.app-jetified-annotation-experimental-1.1.0-0 /home/hashish/.gradle/caches/transforms-3/09db32a73384ac2dccccf916d7dc0262/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.sub_tasks_for_software.app-core-1.6.0-1 /home/hashish/.gradle/caches/transforms-3/168e459aae59caaab0d2c703cf9d67ab/transformed/core-1.6.0/res
+com.example.sub_tasks_for_software.app-jetified-window-1.0.0-beta04-2 /home/hashish/.gradle/caches/transforms-3/29fe38a5fd6c3bf46cd8e59c2b63489e/transformed/jetified-window-1.0.0-beta04/res
+com.example.sub_tasks_for_software.app-jetified-window-java-1.0.0-beta04-3 /home/hashish/.gradle/caches/transforms-3/978180320ed1d29d66a82edc9d24751e/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.sub_tasks_for_software.app-debug-4 /home/hashish/Desktop/test-main/test-main/SubTask/sub_tasks_for_software/android/app/src/debug/res
+com.example.sub_tasks_for_software.app-main-5 /home/hashish/Desktop/test-main/test-main/SubTask/sub_tasks_for_software/android/app/src/main/res
+com.example.sub_tasks_for_software.app-pngs-6 /home/hashish/Desktop/test-main/test-main/SubTask/sub_tasks_for_software/build/app/generated/res/pngs/debug
+com.example.sub_tasks_for_software.app-resValues-7 /home/hashish/Desktop/test-main/test-main/SubTask/sub_tasks_for_software/build/app/generated/res/resValues/debug
+com.example.sub_tasks_for_software.app-rs-8 /home/hashish/Desktop/test-main/test-main/SubTask/sub_tasks_for_software/build/app/generated/res/rs/debug
+com.example.sub_tasks_for_software.app-mergeDebugResources-9 /home/hashish/Desktop/test-main/test-main/SubTask/sub_tasks_for_software/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.sub_tasks_for_software.app-mergeDebugResources-10 /home/hashish/Desktop/test-main/test-main/SubTask/sub_tasks_for_software/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.sub_tasks_for_software.app-merged_res-11 /home/hashish/Desktop/test-main/test-main/SubTask/sub_tasks_for_software/build/app/intermediates/merged_res/debug
+com.example.sub_tasks_for_software.app-packaged_res-12 /home/hashish/Desktop/test-main/test-main/SubTask/sub_tasks_for_software/build/flutter_native_splash/intermediates/packaged_res/debug
+com.example.sub_tasks_for_software.app-packaged_res-13 /home/hashish/Desktop/test-main/test-main/SubTask/sub_tasks_for_software/build/shared_preferences_android/intermediates/packaged_res/debug
+com.example.sub_tasks_for_software.app-packaged_res-14 /home/hashish/Desktop/test-main/test-main/SubTask/sub_tasks_for_software/build/sqflite/intermediates/packaged_res/debug
